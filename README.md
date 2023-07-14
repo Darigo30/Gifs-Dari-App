@@ -1,6 +1,9 @@
-# GifsApp
+# GifsApp 👩‍💻😍
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+![imagen](https://github.com/Darigo30/Gifs-Dari-App/assets/39928174/306b9e08-d3a8-4565-b259-dae85a52d9d1)
+
+Este proyecto fue desarrollado para aprender a modularizar, a consumir servicios, manejo de localStorage, uso de viewChild y peticiones HTTP
+
 
 ## Development server
 
